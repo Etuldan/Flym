@@ -154,7 +154,7 @@
     <string name="settings_mark_as_read">すべて既読としてマーク ボタンを表示</string>
     <string name="settings_mark_as_read_description">ボタンを表示/非表示します</string>
     <plurals name="number_of_new_entries">
-        <item quantity="one">新しいエントリー 1 つ</item>
+        <item quantity="other">新しいエントリー %d</item>
     </plurals>
     <string name="menu_show_new_entries">新しいエントリーを表示</string>
     <string name="settings_show_new_entries">自動的に新しいエントリーを表示します</string>
