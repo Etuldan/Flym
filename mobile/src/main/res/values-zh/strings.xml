@@ -212,7 +212,7 @@
     <string name="cookiename">名字</string>
     <string name="cookievalue">值</string>
     <string name="feed_httpAuth">HTTP验证</string>
-    <string name="loginhttpAuth">登陆</string>
+    <string name="loginhttpAuth">登录</string>
     <string name="passwordhttpAuth">密码</string>
     <string name="tab_advanced_title">高级</string>
     <string name="filter_help">关于过滤</string>
